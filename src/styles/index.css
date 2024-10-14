@@ -10,3 +10,9 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.counter {
+background-color: black;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:bisque ;
+
+}
